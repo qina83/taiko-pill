@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@getgauge/cli": "^1.4.3",
     "taiko": "^1.3.2"
   }
 }
