@@ -16,3 +16,6 @@ e nel frame setup (l'unico accessibile) sposate un post it con il vostro nome da
 
 Thx
 CriGiu
+
+* nvm use
+* npx taiko
